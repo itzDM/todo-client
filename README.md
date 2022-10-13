@@ -4,23 +4,27 @@
 ## To clone this repo or Create A Simple React App, follow given step
 
 ### step-1
-> create a folder 📂 let name  frontend
+> Move to that folder/Location where you Want your Frontend
 
 ### step-2
->move to that folder 📂 
+>open terminal on folder/locaton path
+
 
 ### step-3
->open terminal on folder path
-
-
-### step-4
 >Run given command
 
 ```
-$ git clone https://github.com/itzDM/React-minimum.git
+$ git clone https://github.com/itzDM/frontend.git
 ```
-### step-5
->Run given command on folder 📂 path for installing the node package
+### step-4
+>Now move to frontend (manually or type below command)
+
+```
+$ cd frontend
+```
+
+### step-6
+>Install dependency using below command 
 
 ```
 $ npm install
