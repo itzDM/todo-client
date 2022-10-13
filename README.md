@@ -1,9 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-
-## To clone this repo follow step Below
+## To clone this repo or Create A Simple React App, follow given step
 
 ### step-1
 > create a folder 📂 let name  frontend
@@ -21,5 +19,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 $ git clone https://github.com/itzDM/React-minimum.git
 ```
+### step-5
+>Run given command on folder 📂 path for installing the node package
 
+```
+$ npm install
+```
+### step-6
+>Run given command to start app
+
+```
+$ npm start
+```
 #### !!!!----------Finally Done -----------!!!!!!!!
