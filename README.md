@@ -23,7 +23,7 @@ $ git clone https://github.com/itzDM/frontend.git
 $ cd frontend
 ```
 
-### step-6
+### step-5
 >Install dependency using below command 
 
 ```
