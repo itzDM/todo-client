@@ -36,3 +36,12 @@ $ npm install
 $ npm start
 ```
 #### !!!!----------Finally Done -----------!!!!!!!!
+
+
+## Othere Method To clone this repo or Create A Simple React App, follow given step
+
+>Run given command 
+
+```
+$ git clone --single-branch -b main https://github.com/itzDM/frontend.git .
+```
