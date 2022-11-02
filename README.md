@@ -14,13 +14,13 @@
 >Run given command
 
 ```
-$ git clone https://github.com/itzDM/frontend.git
+git clone https://github.com/itzDM/frontend.git
 ```
 ### step-4
 >Now move to frontend (manually or type below command)
 
 ```
-$ cd frontend
+cd frontend
 ```
 
 ### step-5
