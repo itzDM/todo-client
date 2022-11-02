@@ -27,13 +27,13 @@ $ cd frontend
 >Install dependency using below command 
 
 ```
-$ npm install
+npm install
 ```
 ### step-6
 >Run given command to start app
 
 ```
-$ npm start
+npm start
 ```
 #### !!!!----------Finally Done -----------!!!!!!!!
 
@@ -43,5 +43,5 @@ $ npm start
 >Run given command 
 
 ```
-$ git clone --single-branch -b main https://github.com/itzDM/frontend.git .
+git clone --single-branch -b main https://github.com/itzDM/frontend.git .
 ```
