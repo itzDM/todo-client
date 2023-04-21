@@ -1,0 +1,27 @@
+.mainContainer{
+       margin: 20px 50px 0px 50px;
+       h2{
+        text-align: center;
+       }
+       .userInfoContainer{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        .userInfo{
+            width: 17%;
+            padding: 20px;
+
+            button{
+            margin-top: 10px;
+            background-color: darkblue;
+            padding: 3px;
+            color: rgb(255, 255, 255);
+            border-radius: 5px;
+            a{
+                color: whitesmoke;
+                text-decoration: none;
+            }
+            }
+        }
+       }
+}

@@ -1,0 +1,44 @@
+.mainContainer{
+    margin: 20px 50px 0px 50px;
+    .navbar{
+        display: flex;
+        justify-content: space-between;
+        button{
+            margin: 10px;
+            background-color: darkblue;
+        padding: 5px;
+        color: whitesmoke;
+        border-radius: 5px;
+        }
+       
+    }
+    .taskContainer{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        .container{
+            width: 20%;
+            padding: 20px;
+            border: 1px solid darkgray;
+            border-radius: 16px;
+            margin: 10px;
+            box-shadow: 0px 0px 2px 1px;
+            overflow-wrap: break-word;
+
+        }
+        .update{
+            background-color: #41a236;
+        padding: 3px;
+        color: whitesmoke;
+        border-radius: 5px;
+        }
+        .delete{
+            margin: 10px;
+            background-color: #d71414;
+        padding: 3px;
+        color: whitesmoke;
+        border-radius: 5px;
+        }
+    }
+    
+}

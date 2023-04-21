@@ -1,0 +1,24 @@
+.mainContainer{
+    margin: 20px 50px 0px 50px;
+       h2{
+        text-align: center;
+       }
+    .taskContainer{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        .container{
+            width: 20%;
+            padding: 20px;
+            border: 1px solid darkgray;
+            border-radius: 16px;
+            margin: 10px;
+            box-shadow: 0px 0px 2px 1px;
+            overflow-wrap: break-word;
+
+
+        }
+        
+    }
+    
+}
