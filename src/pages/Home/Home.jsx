@@ -91,7 +91,7 @@ const Home = () => {
             <div className='mainContainer'>
                 <div className='navbar'>
                     <h2>TO-DO</h2>
-                    <h2>{`Welcome ${data?.[0]?.userId.userName}`} </h2>
+                    <h2>Welcome</h2>
                     <button onClick={createTask}>Create Task</button>
                 </div>
                 {err && <span>{err}</span>}
